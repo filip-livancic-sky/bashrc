@@ -1,0 +1,2 @@
+# bashrc
+Filip's .bashrc
